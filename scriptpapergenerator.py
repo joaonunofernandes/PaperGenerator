@@ -24,5 +24,5 @@ for y in range(line_spacing, height, line_spacing):
 
 
 # Save the image as a PNG
-file_path = "/Users/jnf/Library/CloudStorage/OneDrive-Personal/Documentos/Paper Generator/A4_DoubleLines.png"
+file_path = # put here you want to save the file here
 img.save(file_path)
